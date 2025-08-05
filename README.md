@@ -76,11 +76,11 @@ Jupyter Notebook 또는 Google Colab에서 원하는 .ipynb 파일을 열어 실
 
 ## 📖 학습 순서 추천
 
-***[1]Langchain_Agent.ipynb*** - AI 에이전트 기본 개념 학습
-***[4]LlmaIndex_Agent.ipynb*** - 문서 기반 AI 시스템 이해
-***[3]AutoGen_Agent.ipynb*** - 멀티 에이전트 협업 시스템
-***[5]crewai_Agent.ipynb*** - 실제 업무에 활용 가능한 에이전트
-***[2]AutoGPT_Agent.ipynb*** - 고급 자율 에이전트
+**[1]Langchain_Agent.ipynb** - AI 에이전트 기본 개념 학습
+**[4]LlmaIndex_Agent.ipynb** - 문서 기반 AI 시스템 이해
+**[3]AutoGen_Agent.ipynb** - 멀티 에이전트 협업 시스템
+**[5]crewai_Agent.ipynb** - 실제 업무에 활용 가능한 에이전트
+**[2]AutoGPT_Agent.ipynb** - 고급 자율 에이전트
 
 ## ⚠️ 주의사항
 
@@ -101,5 +101,6 @@ Jupyter Notebook 또는 Google Colab에서 원하는 .ipynb 파일을 열어 실
 이 프로젝트는 학습 목적으로 만들어졌습니다. 자유롭게 사용하고 수정하세요.
 ## 📞 문의
 프로젝트에 대한 질문이나 제안사항이 있으시면 Issue를 생성해 주세요.
+
 
 
