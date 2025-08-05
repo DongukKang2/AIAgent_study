@@ -52,12 +52,14 @@ TAVILY_API_KEY=tvly-your-tavily-api-key-here
 Jupyter Notebook 또는 Google Colab에서 원하는 .ipynb 파일을 열어 실행하세요.
 ## 🔑 필요한 API 키
 |서비스|용도|획득 방법|
+|------|------|------|
 |OpenAI|GPT 모델 사용|OpenAI Platform|
 |Serper|구글 검색 API|Serper.dev|
 |Tavily|검색 도구|Tavily AI|
 
 ##📋 주요 기능별 노트북 선택 가이드
 |원하는 기능|추천 노트북|특징|
+|------|------|------|
 |기본 AI 에이전트|[1]Langchain_Agent.ipynb|가장 기본적이고 이해하기 쉬운 구조|
 |대화형 에이전트|[3]AutoGen_Agent.ipynb|여러 에이전트가 협업하는 시스템|
 |문서 기반 Q&A|[4]LlmaIndex_Agent.ipynb|PDF 문서를 활용한 질의응답|
@@ -101,6 +103,7 @@ Jupyter Notebook 또는 Google Colab에서 원하는 .ipynb 파일을 열어 실
 이 프로젝트는 학습 목적으로 만들어졌습니다. 자유롭게 사용하고 수정하세요.
 ## 📞 문의
 프로젝트에 대한 질문이나 제안사항이 있으시면 Issue를 생성해 주세요.
+
 
 
 
